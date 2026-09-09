@@ -4,7 +4,7 @@ A machine learning-powered **Multiple Disease Prediction System** built with **P
 
 ## 🚀 Live Demo
 
-👉 **[Open the Streamlit App](https://multi-disease-predict-x3cfuxjzmynyj2zbaq6cf1.streamlit.app/)**
+👉 **[Open the Streamlit App](https://multi-disease-predict-r6stcvnkcrrjvuuje5v5s6.streamlit.app/)**
 
 ---
 
