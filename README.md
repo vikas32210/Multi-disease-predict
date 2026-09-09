@@ -4,7 +4,7 @@ A machine learning-powered **Multiple Disease Prediction System** built with **P
 
 ## 🚀 Live Demo
 
-👉 **[Open the Streamlit App](https://multi-disease-predict-x3cfuxjzmynyj2zbaq6cfl.streamlit.app/)**
+👉 **[Open the Streamlit App](https://multi-disease-predict-x3cfuxjzmynyj2zbaq6cf1.streamlit.app/)**
 
 ---
 
@@ -247,7 +247,7 @@ The application will open in your browser.
 
 The application is deployed using **Streamlit Cloud**.
 
-👉 **[Live Application](https://multi-disease-predict-x3cfuxjzmynyj2zbaq6cfl.streamlit.app/)**
+👉 **[Live Application](https://multi-disease-predict-x3cfuxjzmynyj2zbaq6cf1.streamlit.app/)**
 
 ---
 
@@ -284,6 +284,6 @@ If you find an issue or have an idea for improvement, feel free to create an iss
 
 ## 👨‍💻 Author
 
-**Tushant Singh**
+**Vikas yadav**
 
 If you have any questions or suggestions regarding the project, feel free to get in touch.
