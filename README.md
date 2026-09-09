@@ -247,7 +247,7 @@ The application will open in your browser.
 
 The application is deployed using **Streamlit Cloud**.
 
-👉 **[Live Application](https://multi-disease-predict-r6tcvnkcrjvjuje5v5s6.streamlit.app/)**
+👉 **[Live Application](https://multi-disease-predict-r6stcvnkcrrjvuuje5v5s6.streamlit.app/)**
 
 ---
 
